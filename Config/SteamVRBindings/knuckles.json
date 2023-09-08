@@ -6,7 +6,118 @@
 	{
 		"/actions/main":
 		{
-			"sources": [],
+			"sources": [
+				{
+					"mode": "trackpad",
+					"path": "/user/hand/right/input/trackpad",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/ValveRightThumbAnim"
+						}
+					}
+				},
+				{
+					"mode": "joystick",
+					"path": "/user/hand/right/input/thumbstick",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/ValveRightThumbAnim"
+						}
+					}
+				},
+				{
+					"mode": "trigger",
+					"path": "/user/hand/right/input/trigger",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/ValveRightThumbAnim"
+						}
+					}
+				},
+				{
+					"mode": "button",
+					"path": "/user/hand/right/input/b",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/ValveRightThumbAnim"
+						}
+					}
+				},
+				{
+					"mode": "button",
+					"path": "/user/hand/right/input/a",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/ValveRightThumbAnim"
+						}
+					}
+				},
+				{
+					"mode": "trackpad",
+					"path": "/user/hand/left/input/trackpad",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/ValveLeftThumbAnim"
+						}
+					}
+				},
+				{
+					"mode": "joystick",
+					"path": "/user/hand/left/input/thumbstick",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/ValveLeftThumbAnim"
+						}
+					}
+				},
+				{
+					"mode": "trigger",
+					"path": "/user/hand/left/input/trigger",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/ValveLeftThumbAnim"
+						}
+					}
+				},
+				{
+					"mode": "button",
+					"path": "/user/hand/left/input/b",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/ValveLeftThumbAnim"
+						}
+					}
+				},
+				{
+					"mode": "button",
+					"path": "/user/hand/left/input/a",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/ValveLeftThumbAnim"
+						}
+					}
+				}
+			],
 			"poses": [
 				{
 					"output": "/actions/main/in/controllerleft",
@@ -40,5 +151,5 @@
 			]
 		}
 	},
-	"description": ""
+	"description": "VRGlobe-26001984"
 }
