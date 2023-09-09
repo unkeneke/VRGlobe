@@ -154,6 +154,22 @@
 		{
 			"name": "/actions/main/in/ValveLeftThumbAnim",
 			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/ValveLeftPointAnim",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/ValveRightPointAnim",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/ValveLeftGrabAnim",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/ValveRightGrabAnim",
+			"type": "boolean"
 		}
 	],
 	"action_sets": [
@@ -398,6 +414,10 @@
 			"/actions/main/in/open_console": "Open Console",
 			"/actions/main/in/ValveRightThumbAnim": "ValveRightThumbAnim",
 			"/actions/main/in/ValveLeftThumbAnim": "ValveLeftThumbAnim",
+			"/actions/main/in/ValveLeftPointAnim": "ValveLeftPointAnim",
+			"/actions/main/in/ValveRightPointAnim": "ValveRightPointAnim",
+			"/actions/main/in/ValveLeftGrabAnim": "ValveLeftGrabAnim",
+			"/actions/main/in/ValveRightGrabAnim": "ValveRightGrabAnim",
 			"/actions/main": "Main Game Actions"
 		}
 	]

@@ -30,17 +30,6 @@
 					}
 				},
 				{
-					"mode": "trigger",
-					"path": "/user/hand/right/input/trigger",
-					"inputs":
-					{
-						"touch":
-						{
-							"output": "/actions/main/in/ValveRightThumbAnim"
-						}
-					}
-				},
-				{
 					"mode": "button",
 					"path": "/user/hand/right/input/b",
 					"inputs":
@@ -85,17 +74,6 @@
 					}
 				},
 				{
-					"mode": "trigger",
-					"path": "/user/hand/left/input/trigger",
-					"inputs":
-					{
-						"touch":
-						{
-							"output": "/actions/main/in/ValveLeftThumbAnim"
-						}
-					}
-				},
-				{
 					"mode": "button",
 					"path": "/user/hand/left/input/b",
 					"inputs":
@@ -114,6 +92,72 @@
 						"touch":
 						{
 							"output": "/actions/main/in/ValveLeftThumbAnim"
+						}
+					}
+				},
+				{
+					"mode": "trigger",
+					"path": "/user/hand/left/input/trigger",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/ValveLeftPointAnim"
+						}
+					}
+				},
+				{
+					"mode": "trigger",
+					"path": "/user/hand/left/input/trigger",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/ValveLeftPointAnim"
+						}
+					}
+				},
+				{
+					"mode": "trigger",
+					"path": "/user/hand/right/input/trigger",
+					"inputs":
+					{
+						"touch":
+						{
+							"output": "/actions/main/in/ValveRightPointAnim"
+						}
+					}
+				},
+				{
+					"mode": "trigger",
+					"path": "/user/hand/right/input/trigger",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/ValveRightPointAnim"
+						}
+					}
+				},
+				{
+					"mode": "grab",
+					"path": "/user/hand/left/input/grip",
+					"inputs":
+					{
+						"grab":
+						{
+							"output": "/actions/main/in/ValveLeftGrabAnim"
+						}
+					}
+				},
+				{
+					"mode": "grab",
+					"path": "/user/hand/right/input/grip",
+					"inputs":
+					{
+						"grab":
+						{
+							"output": "/actions/main/in/ValveRightGrabAnim"
 						}
 					}
 				}
