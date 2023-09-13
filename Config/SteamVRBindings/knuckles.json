@@ -14,7 +14,7 @@
 					{
 						"touch":
 						{
-							"output": "/actions/main/in/ValveRightThumbAnim"
+							"output": "/actions/main/in/RightThumbAnim"
 						}
 					}
 				},
@@ -25,7 +25,7 @@
 					{
 						"touch":
 						{
-							"output": "/actions/main/in/ValveRightThumbAnim"
+							"output": "/actions/main/in/RightThumbAnim"
 						}
 					}
 				},
@@ -36,7 +36,7 @@
 					{
 						"touch":
 						{
-							"output": "/actions/main/in/ValveRightThumbAnim"
+							"output": "/actions/main/in/RightThumbAnim"
 						}
 					}
 				},
@@ -47,7 +47,7 @@
 					{
 						"touch":
 						{
-							"output": "/actions/main/in/ValveRightThumbAnim"
+							"output": "/actions/main/in/RightThumbAnim"
 						}
 					}
 				},
@@ -58,7 +58,7 @@
 					{
 						"touch":
 						{
-							"output": "/actions/main/in/ValveLeftThumbAnim"
+							"output": "/actions/main/in/LeftThumbAnim"
 						}
 					}
 				},
@@ -69,7 +69,7 @@
 					{
 						"touch":
 						{
-							"output": "/actions/main/in/ValveLeftThumbAnim"
+							"output": "/actions/main/in/LeftThumbAnim"
 						}
 					}
 				},
@@ -80,7 +80,7 @@
 					{
 						"touch":
 						{
-							"output": "/actions/main/in/ValveLeftThumbAnim"
+							"output": "/actions/main/in/LeftThumbAnim"
 						}
 					}
 				},
@@ -91,7 +91,7 @@
 					{
 						"touch":
 						{
-							"output": "/actions/main/in/ValveLeftThumbAnim"
+							"output": "/actions/main/in/LeftThumbAnim"
 						}
 					}
 				},
@@ -102,7 +102,7 @@
 					{
 						"touch":
 						{
-							"output": "/actions/main/in/ValveLeftPointAnim"
+							"output": "/actions/main/in/LeftPointAnim"
 						}
 					}
 				},
@@ -113,7 +113,7 @@
 					{
 						"click":
 						{
-							"output": "/actions/main/in/ValveLeftPointAnim"
+							"output": "/actions/main/in/LeftPointAnim"
 						}
 					}
 				},
@@ -124,7 +124,7 @@
 					{
 						"touch":
 						{
-							"output": "/actions/main/in/ValveRightPointAnim"
+							"output": "/actions/main/in/RightPointAnim"
 						}
 					}
 				},
@@ -135,7 +135,7 @@
 					{
 						"click":
 						{
-							"output": "/actions/main/in/ValveRightPointAnim"
+							"output": "/actions/main/in/RightPointAnim"
 						}
 					}
 				},
@@ -146,7 +146,7 @@
 					{
 						"grab":
 						{
-							"output": "/actions/main/in/ValveLeftGrabAnim"
+							"output": "/actions/main/in/LeftGrabAnim"
 						}
 					}
 				},
@@ -157,7 +157,7 @@
 					{
 						"grab":
 						{
-							"output": "/actions/main/in/ValveRightGrabAnim"
+							"output": "/actions/main/in/RightGrabAnim"
 						}
 					}
 				}

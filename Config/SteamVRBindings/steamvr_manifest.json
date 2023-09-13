@@ -148,27 +148,27 @@
 			"requirement": "optional"
 		},
 		{
-			"name": "/actions/main/in/ValveRightThumbAnim",
+			"name": "/actions/main/in/RightThumbAnim",
 			"type": "boolean"
 		},
 		{
-			"name": "/actions/main/in/ValveLeftThumbAnim",
+			"name": "/actions/main/in/LeftThumbAnim",
 			"type": "boolean"
 		},
 		{
-			"name": "/actions/main/in/ValveLeftPointAnim",
+			"name": "/actions/main/in/LeftPointAnim",
 			"type": "boolean"
 		},
 		{
-			"name": "/actions/main/in/ValveRightPointAnim",
+			"name": "/actions/main/in/RightPointAnim",
 			"type": "boolean"
 		},
 		{
-			"name": "/actions/main/in/ValveLeftGrabAnim",
+			"name": "/actions/main/in/LeftGrabAnim",
 			"type": "boolean"
 		},
 		{
-			"name": "/actions/main/in/ValveRightGrabAnim",
+			"name": "/actions/main/in/RightGrabAnim",
 			"type": "boolean"
 		}
 	],
@@ -412,12 +412,12 @@
 			"/actions/main/out/vibrateleft": "Haptic (Left)",
 			"/actions/main/out/vibrateright": "Haptic (Right)",
 			"/actions/main/in/open_console": "Open Console",
-			"/actions/main/in/ValveRightThumbAnim": "ValveRightThumbAnim",
-			"/actions/main/in/ValveLeftThumbAnim": "ValveLeftThumbAnim",
-			"/actions/main/in/ValveLeftPointAnim": "ValveLeftPointAnim",
-			"/actions/main/in/ValveRightPointAnim": "ValveRightPointAnim",
-			"/actions/main/in/ValveLeftGrabAnim": "ValveLeftGrabAnim",
-			"/actions/main/in/ValveRightGrabAnim": "ValveRightGrabAnim",
+			"/actions/main/in/RightThumbAnim": "RightThumbAnim",
+			"/actions/main/in/LeftThumbAnim": "LeftThumbAnim",
+			"/actions/main/in/LeftPointAnim": "LeftPointAnim",
+			"/actions/main/in/RightPointAnim": "RightPointAnim",
+			"/actions/main/in/LeftGrabAnim": "LeftGrabAnim",
+			"/actions/main/in/RightGrabAnim": "RightGrabAnim",
 			"/actions/main": "Main Game Actions"
 		}
 	]
