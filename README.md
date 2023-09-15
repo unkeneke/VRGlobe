@@ -1,1 +1,1 @@
-Project made to demo exploration of a 3D version of Earth that is manipulable in VR, using Cesium with Unreal Engine 5
+WIP project of a explorable 3D Earth that is manipulable in VR, using Cesium with Unreal Engine 5
