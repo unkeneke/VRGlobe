@@ -170,6 +170,14 @@
 		{
 			"name": "/actions/main/in/RightGrabAnim",
 			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/MoveForward axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/MoveBackward axis",
+			"type": "vector1"
 		}
 	],
 	"action_sets": [
@@ -418,6 +426,8 @@
 			"/actions/main/in/RightPointAnim": "RightPointAnim",
 			"/actions/main/in/LeftGrabAnim": "LeftGrabAnim",
 			"/actions/main/in/RightGrabAnim": "RightGrabAnim",
+			"/actions/main/in/MoveForward axis": "MoveForward",
+			"/actions/main/in/MoveBackward axis": "MoveBackward",
 			"/actions/main": "Main Game Actions"
 		}
 	]
