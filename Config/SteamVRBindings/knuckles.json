@@ -163,6 +163,21 @@
 				},
 				{
 					"mode": "dpad",
+					"path": "/user/hand/right/input/thumbstick",
+					"parameters":
+					{
+						"sub_mode": "click"
+					},
+					"inputs":
+					{
+						"north":
+						{
+							"output": "/actions/main/in/MoveForward axis"
+						}
+					}
+				},
+				{
+					"mode": "dpad",
 					"path": "/user/hand/left/input/thumbstick",
 					"parameters":
 					{
@@ -173,6 +188,21 @@
 						"north":
 						{
 							"output": "/actions/main/in/MoveForward axis"
+						}
+					}
+				},
+				{
+					"mode": "dpad",
+					"path": "/user/hand/right/input/thumbstick",
+					"parameters":
+					{
+						"sub_mode": "click"
+					},
+					"inputs":
+					{
+						"south":
+						{
+							"output": "/actions/main/in/MoveBackward axis"
 						}
 					}
 				},
