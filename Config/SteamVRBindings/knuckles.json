@@ -162,62 +162,13 @@
 					}
 				},
 				{
-					"mode": "dpad",
+					"mode": "joystick",
 					"path": "/user/hand/right/input/thumbstick",
-					"parameters":
-					{
-						"sub_mode": "click"
-					},
 					"inputs":
 					{
-						"north":
+						"position":
 						{
-							"output": "/actions/main/in/MoveForward axis"
-						}
-					}
-				},
-				{
-					"mode": "dpad",
-					"path": "/user/hand/left/input/thumbstick",
-					"parameters":
-					{
-						"sub_mode": "click"
-					},
-					"inputs":
-					{
-						"north":
-						{
-							"output": "/actions/main/in/MoveForward axis"
-						}
-					}
-				},
-				{
-					"mode": "dpad",
-					"path": "/user/hand/right/input/thumbstick",
-					"parameters":
-					{
-						"sub_mode": "click"
-					},
-					"inputs":
-					{
-						"south":
-						{
-							"output": "/actions/main/in/MoveBackward axis"
-						}
-					}
-				},
-				{
-					"mode": "dpad",
-					"path": "/user/hand/left/input/thumbstick",
-					"parameters":
-					{
-						"sub_mode": "click"
-					},
-					"inputs":
-					{
-						"south":
-						{
-							"output": "/actions/main/in/MoveBackward axis"
+							"output": "/actions/main/in/Thumbstick X R,Thumbstick X R X Y_axis2d"
 						}
 					}
 				}

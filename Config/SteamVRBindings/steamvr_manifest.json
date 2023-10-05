@@ -172,12 +172,8 @@
 			"type": "boolean"
 		},
 		{
-			"name": "/actions/main/in/MoveForward axis",
-			"type": "vector1"
-		},
-		{
-			"name": "/actions/main/in/MoveBackward axis",
-			"type": "vector1"
+			"name": "/actions/main/in/Thumbstick X R,Thumbstick X R X Y_axis2d",
+			"type": "vector2"
 		}
 	],
 	"action_sets": [
@@ -426,8 +422,7 @@
 			"/actions/main/in/RightPointAnim": "RightPointAnim",
 			"/actions/main/in/LeftGrabAnim": "LeftGrabAnim",
 			"/actions/main/in/RightGrabAnim": "RightGrabAnim",
-			"/actions/main/in/MoveForward axis": "MoveForward",
-			"/actions/main/in/MoveBackward axis": "MoveBackward",
+			"/actions/main/in/Thumbstick X R,Thumbstick X R X Y_axis2d": "Thumbstick X R,Thumbstick X R X Y_axis2d",
 			"/actions/main": "Main Game Actions"
 		}
 	]

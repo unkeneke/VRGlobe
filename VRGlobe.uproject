@@ -49,6 +49,10 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "SteamController",
+			"Enabled": true
 		}
 	]
 }
