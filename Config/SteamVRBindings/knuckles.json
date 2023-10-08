@@ -171,6 +171,17 @@
 							"output": "/actions/main/in/Thumbstick X R,Thumbstick X R X Y_axis2d"
 						}
 					}
+				},
+				{
+					"mode": "joystick",
+					"path": "/user/hand/left/input/thumbstick",
+					"inputs":
+					{
+						"position":
+						{
+							"output": "/actions/main/in/Thumbstick X L,Thumbstick X L X Y_axis2d"
+						}
+					}
 				}
 			],
 			"poses": [
