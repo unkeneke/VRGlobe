@@ -172,6 +172,14 @@
 			"type": "boolean"
 		},
 		{
+			"name": "/actions/main/in/LeftTriggger",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/RightTrigger",
+			"type": "boolean"
+		},
+		{
 			"name": "/actions/main/in/Thumbstick X R,Thumbstick X R X Y_axis2d",
 			"type": "vector2"
 		},
@@ -426,6 +434,8 @@
 			"/actions/main/in/RightPointAnim": "RightPointAnim",
 			"/actions/main/in/LeftGrabAnim": "LeftGrabAnim",
 			"/actions/main/in/RightGrabAnim": "RightGrabAnim",
+			"/actions/main/in/LeftTriggger": "LeftTriggger",
+			"/actions/main/in/RightTrigger": "RightTrigger",
 			"/actions/main/in/Thumbstick X R,Thumbstick X R X Y_axis2d": "Thumbstick X R,Thumbstick X R X Y_axis2d",
 			"/actions/main/in/Thumbstick X L,Thumbstick X L X Y_axis2d": "Thumbstick X L,Thumbstick X L X Y_axis2d",
 			"/actions/main": "Main Game Actions"

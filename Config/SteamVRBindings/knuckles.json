@@ -162,6 +162,28 @@
 					}
 				},
 				{
+					"mode": "trigger",
+					"path": "/user/hand/left/input/trigger",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/LeftTriggger"
+						}
+					}
+				},
+				{
+					"mode": "trigger",
+					"path": "/user/hand/right/input/trigger",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/RightTrigger"
+						}
+					}
+				},
+				{
 					"mode": "joystick",
 					"path": "/user/hand/right/input/thumbstick",
 					"inputs":
